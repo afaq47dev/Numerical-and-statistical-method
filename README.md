@@ -108,7 +108,8 @@ Numerical-Methods/
 
 ## 👩‍💻 Author
 
-* Name: HIMANSHU MATHPAL
+* Name: AFAQ AHMAD 
+* Roll no : 2472126
 * Course: B.Tech Computer Science
 * Subject: Numerical Methods
 
